@@ -14,15 +14,3 @@ In here I used the following tools, frameworks
 - Bootstrap template, allows to view in multiply device screens without breaking
 
 ## Here are the some screen shots
-<p align="center">
-<img src="http://www.labourjoin.com/scr/labour1.png"><br>
-<img src="http://www.labourjoin.com/scr/labour2.png"><br>
-<img src="http://www.labourjoin.com/scr/labour3.png"><br>
-<img src="http://www.labourjoin.com/scr/labour4.png"><br>
-<img src="http://www.labourjoin.com/scr/labour5.png"><br>
-<img src="http://www.labourjoin.com/scr/labour6.png"><br>
-<img src="http://www.labourjoin.com/scr/labour7.png"><br>
-<img src="http://www.labourjoin.com/scr/labour8.png"><br>
-<img src="http://www.labourjoin.com/scr/labour9.png"><br>
-
-</p>
